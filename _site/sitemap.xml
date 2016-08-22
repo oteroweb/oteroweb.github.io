@@ -1,80 +1,421 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>http://joseotero.com.ve/Hello-World9/</loc>
-<lastmod>2014-03-03T00:00:00-04:00</lastmod>
-</url>
-<url>
-<loc>http://joseotero.com.ve/Hello-World8/</loc>
-<lastmod>2014-03-03T00:00:00-04:00</lastmod>
-</url>
-<url>
-<loc>http://joseotero.com.ve/Hello-World7/</loc>
-<lastmod>2014-03-03T00:00:00-04:00</lastmod>
-</url>
-<url>
-<loc>http://joseotero.com.ve/Hello-World6/</loc>
-<lastmod>2014-03-03T00:00:00-04:00</lastmod>
-</url>
-<url>
-<loc>http://joseotero.com.ve/Hello-World5/</loc>
-<lastmod>2014-03-03T00:00:00-04:00</lastmod>
-</url>
-<url>
-<loc>http://joseotero.com.ve/Hello-World4/</loc>
-<lastmod>2014-03-03T00:00:00-04:00</lastmod>
-</url>
-<url>
-<loc>http://joseotero.com.ve/Hello-World3/</loc>
-<lastmod>2014-03-03T00:00:00-04:00</lastmod>
-</url>
-<url>
-<loc>http://joseotero.com.ve/Hello-World2/</loc>
-<lastmod>2014-03-03T00:00:00-04:00</lastmod>
-</url>
-<url>
-<loc>http://joseotero.com.ve/Hello-World11/</loc>
-<lastmod>2014-03-03T00:00:00-04:00</lastmod>
-</url>
-<url>
-<loc>http://joseotero.com.ve/Hello-World10/</loc>
-<lastmod>2014-03-03T00:00:00-04:00</lastmod>
-</url>
-<url>
-<loc>http://joseotero.com.ve/Hello-World1/</loc>
-<lastmod>2014-03-03T00:00:00-04:00</lastmod>
-</url>
-<url>
-<loc>http://joseotero.com.ve/Hello-World/</loc>
-<lastmod>2014-03-03T00:00:00-04:00</lastmod>
-</url>
-<url>
-<loc>http://joseotero.com.ve/404/</loc>
-</url>
-<url>
-<loc>http://joseotero.com.ve/about/</loc>
-</url>
-<url>
-<loc>http://joseotero.com.ve/blog/</loc>
-</url>
-<url>
-<loc>http://joseotero.com.ve/client/index.html</loc>
-<lastmod>2016-08-21T02:57:38-04:00</lastmod>
-</url>
-<url>
-<loc>http://joseotero.com.ve/client/views/note/create.html</loc>
-<lastmod>2016-08-21T02:57:38-04:00</lastmod>
-</url>
-<url>
-<loc>http://joseotero.com.ve/client/views/note/index.html</loc>
-<lastmod>2016-08-21T02:57:38-04:00</lastmod>
-</url>
-<url>
-<loc>http://joseotero.com.ve/index.html</loc>
-<lastmod>2016-08-20T23:10:38-04:00</lastmod>
-</url>
-<url>
-<loc>http://joseotero.com.ve/plunk/index.html</loc>
-<lastmod>2016-08-21T04:12:40-04:00</lastmod>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/404</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/about/</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/blog/</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/blog/</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/search/cb-search.json</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/jack/search/cb-search.json</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/database/</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/database/</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/jack/feed.xml</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/feed.xml</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/html/</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/html/</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/life/</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/life/</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/linux/</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/linux/</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/mac/</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/mac/</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/python/</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/python/</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/robots.txt</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/jack/robots.txt</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/jack/sitemap.xml</loc>
+    </url>
+
+    <url>
+        <loc>http://www.oteroweb.com.ve/sitemap.xml</loc>
+    </url>
+
 </urlset>
