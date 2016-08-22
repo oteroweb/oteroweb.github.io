@@ -89,6 +89,16 @@ bshare:
 ba:
   uuid: 317acca9ef9255b934e46371e471431d
 
+# Name of your site (displayed in the header)
+name: Jose Luis Otero
+
+# Short bio or description (displayed in the header)
+description: Web Developer from Venezuela To the World :)
+ 
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+
+
 # google analytics
 ga:
   id: UA-73784599-1
@@ -102,7 +112,22 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+  css_class: 'highlight'
 # paginate: 5
+
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :expanded # You might prefer to minify using :compressed
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+
 
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
