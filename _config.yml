@@ -67,6 +67,20 @@ index:
   database: 'Database'
   mac: 'Mac'
   life: 'Life'
+  php: 'php'
+
+# blog index
+tags:
+  home: 'Inicio'
+  python: 'Python'
+  linux: 'Linux'
+  html: 'HTML'
+  database: 'Database'
+  mac: 'Mac'
+  life: 'Life'
+  php: 'php'
+  symfony: 'Symfony'
+
 
 # donate
 donate:
@@ -133,6 +147,7 @@ gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-paginate
+  # - kramdown #doesnt work
 
   
 # Exclude these files from your production _site

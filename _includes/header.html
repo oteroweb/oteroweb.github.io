@@ -71,6 +71,12 @@
                             <li>
                         {% endif %}
                             <a class="page-scroll" href="/life/">{{ site.index.life }}</a></li>
+                         {% if page.title == site.index.php %}
+                            <li class="active">
+                        {% else %}
+                            <li>
+                        {% endif %}
+                            <a class="page-scroll" href="/php/">{{ site.index.php }}</a></li>    
                     </ul>
                 </div>
             </div>
