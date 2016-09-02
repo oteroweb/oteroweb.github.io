@@ -1,25 +1,23 @@
 ---
 layout: post
-title:  "Primer Blog php"
+title:  "Primer Blog con jekyll"
 desc: "我的第一篇jekyll博客"
 keywords: "jekyll,blog,first"
 date: 2015-01-08
-categories: [PHP]
+categories: [LIFE]
 tags: [native]
 icon: fa-bookmark-o
 ---
 
+Esto es una recopilacion de las posibilidade con jekyll me servira como Cheatsheet
 
-esto es un parrafo normalito
 
-##esto ejemplo de codigo##
+esto es un parrafo normalito no hay que añadir elemento especiales ni nada
 
+un ejemplo de codigo va con tres comillas inclinadas como esta `	
 	
-	
-```
 ```
 ejemplo de codigo
-```
 ```
 	
 ## Cabecera de tipo h2 (H1 Esta reservado para los titulos del post)##
