@@ -87,6 +87,8 @@ class Api\ProgrammerController extends Controller
 
 ```
 Agrego las lineas app/config/routing.yml
+
+
 ``` php
 app_web:
     resource: "@AppBundle/Controller/Web"
@@ -94,6 +96,7 @@ app_web:
 app_api:
     resource: "@AppBundle/Controller/Api"
     type:     annotation
+
 ```
 
 
@@ -114,6 +117,7 @@ ya solo nos queda agregar
 crear un archivo en la carpeta raiz llamado testing.php
 
 con el siguiente codigo
+
 ``` php
 <?php 
 require __DIR__.'/vendor/autoload.php';
@@ -136,4 +140,5 @@ nos retornará lo siguiente
 ![Symfonyrest]({{ site.baseurl }}images/symfony_rest1_3.png "titulo de la imagen")
 
 hemos terminado la primera clases vamos  por la segunda :)
-`Nota: el codigo se encuentra en este repositorio` <https://github.com/oteroweb/PracticesSymfonyRestKNPU/tree/master/rest1>
+`Nota: el codigo se encuentra en este repositorio` 
+<https://github.com/oteroweb/PracticesSymfonyRestKNPU/tree/master/rest1>
