@@ -87,7 +87,7 @@ class Api\ProgrammerController extends Controller
 
 ```
 Agrego las lineas app/config/routing.yml
-``` YAML
+``` php
 app_web:
     resource: "@AppBundle/Controller/Web"
     type:     annotation
@@ -136,4 +136,4 @@ nos retornará lo siguiente
 ![Symfonyrest]({{ site.baseurl }}images/symfony_rest1_3.png "titulo de la imagen")
 
 hemos terminado la primera clases vamos  por la segunda :)
-`Nota: el codigo se encuentra en este repositorio <https://github.com/oteroweb/PracticesSymfonyRestKNPU/tree/master/rest1>`
+`Nota: el codigo se encuentra en este repositorio` <https://github.com/oteroweb/PracticesSymfonyRestKNPU/tree/master/rest1>
