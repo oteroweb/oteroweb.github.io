@@ -15,7 +15,7 @@ Lo primero es instalar symfony en este caso vamos a usar la version 2.8
 
 depeniendo de tu sistema operativo 
 
-```
+``` bash
 # Linux and macOS systems
 $ sudo mkdir -p /usr/local/bin
 $ sudo curl -LsS https://symfony.com/installer -o /usr/local/bin/symfony
@@ -30,7 +30,7 @@ en el caso de windows en la carpeta donde ejecutaste el comando
 
 ejecutas 
 
-```
+``` bash
 php symfony new rest1 2.8
 
 ```
@@ -43,7 +43,7 @@ Esperemos que se baje y le indicamos los parametros en
 _Nota: los valores entre corchetes son los valores que usará symfony en caso de que no le coloques ningun valor_
 
 Creo un nuevo controllador con el comando
-```
+``` bash
 php app/console generate:controller
 ```
 
@@ -55,7 +55,7 @@ le indico en que bundle y como se llamara en este caso subcarpeta appBundle/api:
 
 Agrego  el siguiente codigo 
 
-```
+``` php
 <?php
 
 namespace AppBundle\Controller;
@@ -87,7 +87,7 @@ class Api\ProgrammerController extends Controller
 
 ```
 Agrego las lineas app/config/routing.yml
-```
+``` yaml
 app_web:
     resource: "@AppBundle/Controller/Web"
     type:     annotation
@@ -99,7 +99,7 @@ app_api:
 
 ejecuto en consola el comando para agregar guzzle y poder probar el api
 
-```
+``` bash
 composer require guzzlehttp/guzzle
 
 ```
@@ -114,7 +114,7 @@ ya solo nos queda agregar
 crear un archivo en la carpeta raiz llamado testing.php
 
 con el siguiente codigo
-```
+``` php
 <?php 
 require __DIR__.'/vendor/autoload.php';
  
