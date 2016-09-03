@@ -22,3 +22,22 @@ Here is some Ruby code.
     puts "hello"
   </code>
 </pre>
+
+``` ruby
+    puts "hello"
+```
+
+``` php
+<?php 
+require __DIR__.'/vendor/autoload.php';
+ 
+$client = new \GuzzleHttp\Client();
+url
+$res = $client->request('POST', 'http://localhost:8000/api/programmers', [
+    // 'auth' => ['user', 'pass']
+]);
+echo $res->getBody();
+
+
+ ?>
+```
