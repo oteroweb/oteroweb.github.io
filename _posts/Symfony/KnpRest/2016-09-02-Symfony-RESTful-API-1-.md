@@ -89,7 +89,7 @@ class Api\ProgrammerController extends Controller
 Agrego las lineas app/config/routing.yml
 
 
-``` php
+``` yaml
 app_web:
     resource: "@AppBundle/Controller/Web"
     type:     annotation
