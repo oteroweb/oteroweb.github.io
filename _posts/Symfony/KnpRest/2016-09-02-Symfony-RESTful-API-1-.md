@@ -2,14 +2,14 @@
 layout: post
 title:  "Primeros pasos Symfony RESTful API Tutorial"
 desc: "Los primeros pasos en el curso de knp university sobre la creacion de API RESTful"
-keywords: "php,symfony,api, apirest, restfull"
+keywords: "php,symfony,api, apirest, restful"
 date: 2016-09-02
 categories: [PHP]
 tags: [php,symfony,api, apirest, restfull, framework]
 icon: fa-bookmark-o
 ---
 
-## Creando un api Rest Full##
+## Creando un api Rest Ful##
 
 Lo primero es instalar symfony en este caso vamos a usar la version 2.8
 
@@ -97,14 +97,43 @@ app_api:
 ```
 
 
-ejecuto en consola el comando 
+ejecuto en consola el comando para agregar guzzle y poder probar el api
 
 ```
 composer require guzzlehttp/guzzle
 
 ```
 
-_Nota: estoy siguiendo la clase indicada por eso instalo guzzle, prefiero postman por su facilidad de uso el cual fue recomendado por el colega <https://github.com/aasanchez>_
+_Nota: estoy siguiendo el tutorial y en el usan guzzle, por eso lo instalo, prefiero postman por su facilidad de uso el cual fue recomendado por el colega <https://github.com/aasanchez>_
 
 creamos un archivo en tu proyecto raiz llamado testing.php
 
+
+ya solo nos queda agregar 
+
+crear un archivo en la carpeta raiz llamado testing.php
+
+con el siguiente codigo
+```
+<?php 
+require __DIR__.'/vendor/autoload.php';
+ 
+$client = new \GuzzleHttp\Client();
+url
+$res = $client->request('POST', 'http://localhost:8000/api/programmers', [
+    // 'auth' => ['user', 'pass']
+]);
+echo $res->getBody();
+
+
+ ?>
+```
+
+abrimos la consola y ejecutamos en la carpeta raiz del proyecto  `php testing.php`
+
+nos retornará lo siguiente
+
+![Symfonyrest]({{ site.baseurl }}images/symfony_rest1_3.png "titulo de la imagen")
+
+hemos terminado la primera clases vamos  por la segunda :)
+`Nota: el codigo se encuentra en este repositorio <https://github.com/oteroweb/PracticesSymfonyRestKNPU/tree/master/rest1>`
