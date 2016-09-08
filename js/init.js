@@ -11,6 +11,7 @@
  $(document).ready(function(){
   // $('.carousel.carousel-slider').slider();
       // $('.carouselx').carousel();
+      // $('#carouselser').carousel();
 $('.carousel.carousel-slider').carousel({full_width: true});
 
     });
