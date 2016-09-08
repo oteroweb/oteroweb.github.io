@@ -17,6 +17,7 @@ gogole analitics
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 
     <!-- <script async="" src="custom.js"></script> -->
 <script>
@@ -440,3 +441,33 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
 
   </body>
 </html>
+
+
+<!--
+<a href="#myAnchor" rel="" id="anchor1" class="anchorLink">Link to the anchor</a>
+<a name="myAnchor" id="myAnchor"><strong>Where i want to go</strong></a>
+$(document).ready(function() {
+  $("a.anchorLink").anchorAnimate()
+});
+
+jQuery.fn.anchorAnimate = function(settings) {
+
+  settings = jQuery.extend({
+    speed : 1100
+  }, settings); 
+  
+  return this.each(function(){
+    var caller = this
+    $(caller).click(function (event) {  
+      event.preventDefault()
+      var locationHref = window.location.href
+      var elementClick = $(caller).attr("href")
+      
+      var destination = $(elementClick).offset().top;
+      $("html:not(:animated),body:not(:animated)").animate({ scrollTop: destination}, settings.speed, function() {
+        window.location.hash = elementClick
+      });
+        return false;
+    })
+  })
+}  -->
