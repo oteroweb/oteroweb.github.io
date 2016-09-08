@@ -18,8 +18,15 @@ gogole analitics
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 
-    <script async="" src="custom.js"></script>
-
+    <!-- <script async="" src="custom.js"></script> -->
+<script>
+  $('a').click(function(){
+    $('html, body').animate({
+        scrollTop: $('[name="' + $.attr(this, 'href').substr(1) + '"]').offset().top
+    }, 500);
+    return false;
+});
+</script>
 </head>
 <body>
 <div class="navbar-fixed ">
