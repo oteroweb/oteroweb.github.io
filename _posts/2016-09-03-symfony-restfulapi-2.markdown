@@ -2,7 +2,7 @@
 layout: post
 title: Symfony Restfulapi 2
 desc: "Los primeros pasos en el curso de knp university sobre la creacion de API RESTful"
-keywords: "php,symfony,api, apirest, restfull"
+keywords: "php,symfony,api, apirest, restful"
 date: 2016-09-02
 categories: [PHP]
 tags: [php,symfony,api, apirest, restful, framework]
