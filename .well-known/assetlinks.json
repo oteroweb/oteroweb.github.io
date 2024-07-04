@@ -1,0 +1,14 @@
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.wFormOwfinance_17976384",
+        "sha256_cert_fingerprints": [
+          "3C:8D:D5:6C:39:CC:D0:AF:7E:3E:A5:C2:41:42:4E:FE:1E:3C:4B:CE:76:2B:7F:B2:87:DB:4E:40:25:53:68:AE"
+        ]
+      }
+    }
+  ]

@@ -1,0 +1,154 @@
+# Welcome to Jekyll!
+
+# Website settings
+title: "Oteroweb.com.ve"
+description: "Oteroweb blog,use Jekyll and github pages."
+keywords: "otero,web,blog,Jekyll,github,gh-pages"
+baseurl: "/"
+url: "http://www.oteroweb.com.ve"
+# url: "http://127.0.0.1:4000"
+
+# blog img path
+img_path: 'http://www.jack003.com/static/img/blog'
+
+# author
+author:
+  name: 'Jose Otero'
+  first_name: 'Jose'
+  last_name: 'Otero'
+  email: 'oterolopez1990@gmail.com'
+  facebook_username: 'oteroweb'
+  github_username: 'oteroweb'
+  head_img: 'static/img/landing/Jack.jpg'
+
+# social link
+jingyu:
+  first_name: 'Yu'
+  last_name: 'Jing'
+  description: 'Painter.'
+  link: 'http://angular.jack003.com'
+  email: '805963294@qq.com'
+
+# landing page
+landing:
+  home: 'Inicio'
+  about: 'Sobre Mi'
+  career: 'Carrera'
+  skills: 'Habilidades'
+  projects: 'Proyectos'
+  blog: 'Blog'
+  link: 'Enlace'
+
+# my projects
+project:
+  saplatform:
+    name: 'Saplatform'
+    url: '/Jack614/saplatform'
+    img: 'static/img/landing/saplatform.png'
+  jalpc:
+    name: 'Jalpc'
+    url: '/Jack614/jalpc_jekyll_theme'
+    img: 'static/img/landing/jekyll.png'
+  angularjs:
+    name: 'Jalpc-A'
+    url: '/Jack614/Jalpc-A'
+    img: 'static/img/landing/angularjs.png'
+  Rsser:
+    name: 'Rsser'
+    url: '/Jack614/Rsser'
+    img: 'static/img/landing/rsser.png'
+
+# blog index
+index:
+  home: 'Inicio'
+  python: 'Python'
+  linux: 'Linux'
+  html: 'HTML'
+  database: 'Database'
+  mac: 'Mac'
+  life: 'Life'
+  php: 'php'
+
+# blog index
+tags:
+  home: 'Inicio'
+  python: 'Python'
+  linux: 'Linux'
+  html: 'HTML'
+  database: 'Database'
+  mac: 'Mac'
+  life: 'Life'
+  php: 'php'
+  symfony: 'Symfony'
+
+
+# donate
+donate:
+  wechat: 'static/img/pay/wechat.png'
+  alipay: 'static/img/pay/alipay.png'
+
+# comment
+changyan:
+  # appid: cysfY7ULn
+  # conf: prod_861928934cecb7a18e15bedaed9dae29
+disqus:
+  name: oteroweb
+  public_key: voUF60ClGngm40JBOK7yiw6iWyAYn7BCFcYmtfYl6x2yX1smzNVxubrTSiWoaOYA
+
+# share
+bshare:
+  uuid: 513f778e-a8f7-4c20-9ec2-d29cc2328d75
+
+# baidu analytics
+ba:
+  uuid: 317acca9ef9255b934e46371e471431d
+
+# Name of your site (displayed in the header)
+name: Jose Luis Otero
+
+# Short bio or description (displayed in the header)
+description: Web Developer from Venezuela To the World :)
+ 
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+
+
+# google analytics
+ga:
+  id: UA-73784599-1
+
+# Build settings
+encoding: "utf-8"
+
+# other settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  css_class: 'highlight'
+# paginate: 5
+
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :expanded # You might prefer to minify using :compressed
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+
+
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-paginate
+  # - kramdown #doesnt work
+
+  
+# Exclude these files from your production _site
+# permalink: /404.html
