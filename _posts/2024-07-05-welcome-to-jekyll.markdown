@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mi primer post en Jekyll!"
+title:  "Welcome to Jekyll!"
 date:   2024-07-05 23:42:54 -0400
 categories: jekyll youtube
 ---
